@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "0.1.0",
+  "description": "Platzi typescript course project testing,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farancibiat/typescript-testing.git"
+  },
+  "keywords": [
+    "[typescript",
+    "javascript",
+    "node]"
+  ],
+  "author": "Felipe Arancibia <arancibiat.felipe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Farancibiat/typescript-testing/issues"
+  },
+  "homepage": "https://github.com/Farancibiat/typescript-testing#readme"
+}
